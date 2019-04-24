@@ -1,4 +1,6 @@
-<style type="text/css">
+	body {width:1250px; margin: 3% 12% 3% 12%; padding: 2% 3% 2% 3%; border: 15px solid yellow;font-family: Arial, Verdana, sans-serif;font-size: 20px;text-align:justify;color: #ffffff;background-color: orange}
+	h1 { font-size: 60px; font-weight: bold; text-align:center;}
+	figure {text-align: center;}
 
 	.Medalha  {border-collapse:collapse;border-spacing:0;}
 	.Medalha td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -9,11 +11,5 @@
 	.Medalha .B{border-color:inherit;text-align:left;vertical-align:top}
 	.Medalha .O{background-color:#ffcb2f;border-color:inherit;text-align:left;vertical-align:top}
 	
-	body {width:1250px; margin: 3% 12% 3% 12%; padding: 2% 3% 2% 3%; border: 15px solid yellow;font-family: Arial, Verdana, sans-serif;font-size: 20px;text-align:justify;color: #ffffff;background-color: orange}
-	h1 { font-size: 60px; font-weight: bold; text-align:center;}
-	figure {text-align: center;}
+	
 
-
-
-
-</style>
