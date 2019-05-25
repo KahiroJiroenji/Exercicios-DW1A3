@@ -30,8 +30,18 @@ document.formImc.resultado.value = imc.toFixed(2);
   
 </script>
 
+<style type="text/css">
+
+div {background-color: cyan; padding 5%}
+.button {color: green}
+	
+}
+
+</style>
+
 </head>
 <body>
+
 <div align="center">
 <p><strong>CÁLCULO DE IMC (Índice de Massa Corpórea)</strong></p><br>
 
@@ -41,7 +51,7 @@ document.formImc.resultado.value = imc.toFixed(2);
 <p>Altura (em cm): <input type="text" name="altura"></p>
 <p><input type="button" value="Calcular" onclick="CalculoImc();">
 <input type="reset" value="Limpar"></p>
-<p>Resultado: <input type="text" name="resultado"></p>
+<p>Resultado. Seu IMC é: <input type="text" name="resultado"></p>
 
 </form>
 </div>
