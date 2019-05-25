@@ -32,10 +32,19 @@ document.formImc.resultado.value = imc.toFixed(2);
 
 <style type="text/css">
 
-div {background-color: cyan; padding 5%}
-.button {color: green}
-	
-}
+div {margin-left: 30%; 
+margin-top: 1%; 
+margin-right: 30%; 
+border-style: dotted; 
+border: 1%; 
+padding: 2%; 
+background-color: cyan; 
+border-color: coral;}
+
+ form{ font-family:Arial, sans-serif;
+    color: blue;
+    background-color: gray;
+    padding: 3%}
 
 </style>
 
